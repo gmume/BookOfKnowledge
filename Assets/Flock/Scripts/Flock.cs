@@ -9,7 +9,7 @@ public class Flock : MonoBehaviour
 
     [Range(10, 500)]
     public int startingCount = 250;
-    const float BoidDensity = 0.08f;
+    const float BoidDensity = 0.09f;
 
     [Range(1f, 100f)]
     public float driveFactor = 10f;
