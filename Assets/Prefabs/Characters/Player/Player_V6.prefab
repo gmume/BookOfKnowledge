@@ -889,7 +889,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.13
+  m_Radius: 0.15
   m_Height: 0.3
   m_Direction: 1
   m_Center: {x: 0, y: 0.03, z: 0}
@@ -972,7 +972,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.13
+  m_Radius: 0.15
   m_Height: 0.41
   m_Direction: 1
   m_Center: {x: 0, y: 0.12, z: 0.01}
@@ -4233,7 +4233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7493023606011876420, guid: 436e26a83800e204985cd6ae171a5739, type: 3}
       propertyPath: m_AABB.m_Center.y
-      value: -0.21911281
+      value: -0.2191357
       objectReference: {fileID: 0}
     - target: {fileID: 7493023606011876420, guid: 436e26a83800e204985cd6ae171a5739, type: 3}
       propertyPath: m_AABB.m_Center.z
@@ -4241,7 +4241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7493023606011876420, guid: 436e26a83800e204985cd6ae171a5739, type: 3}
       propertyPath: m_AABB.m_Extent.y
-      value: 0.3011678
+      value: 0.30119067
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 436e26a83800e204985cd6ae171a5739, type: 3}
